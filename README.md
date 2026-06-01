@@ -48,3 +48,7 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+<!-- Bài tập mobie -->
+## B1
+![image_1](./assets/images/bt1_mobile_1.jpg)
+![image_2](./assets/images/bt1_mobile_2.jpg)
