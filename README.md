@@ -55,3 +55,9 @@ Join our community of developers creating universal apps.
 ## B1
 ![image_1](./assets/images/bt1_mobile_1.jpg)
 ![image_2](./assets/images/bt1_mobile_2.jpg)
+## B3
+### B3.1
+![image_1](./assets/images/bt-3.1.jpg)
+### B3.2
+![image_2](./assets/images/bt-3.2(1).jpg)
+![image_3](./assets/images/bt-3.2(2).jpg)
