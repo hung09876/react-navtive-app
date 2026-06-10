@@ -1,3 +1,4 @@
+import HelloWorldSquare from '@/src/components/ComponentBt3';
 import React, { useState } from 'react';
 import {
   SafeAreaView,
@@ -20,8 +21,7 @@ export default function App() {
 
   return (
     <SafeAreaView style={styles.container}>
-      <Text style={styles.title}>Expo + React Native + TypeScript</Text>
-
+      <HelloWorldSquare/>
       <Text style={styles.counter}>{count}</Text>
 
       <View style={styles.buttonContainer}>
